@@ -6,11 +6,11 @@ A comprehensive end-to-end Sales Analytics Dashboard built in Power BI, transfor
 
 ## Screenshots
 
-![Overview Dashboard](Sales_Data_Analysis_Dashboard.png)
-![Product Performance](Sales_Data_Analysis_Dashboard_2.png)
-![Period Comparison](Sales_Data_Analysis_Dashboard_3.png)
-![Individual Period Analysis](Sales_Data_Analysis_Dashboard_4.png)
-![Raw Data Explorer](Sales_Data_Analysis_Dashboard_5.png)
+<img width="717" height="398" alt="Sales Data Analysis Dashboard" src="https://github.com/user-attachments/assets/2b99d239-20c6-4cdc-bcf8-d276c648803c" />
+<img width="715" height="380" alt="Sales Data Analysis Dashboard 2" src="https://github.com/user-attachments/assets/7c1f372a-6bdb-41c9-91c0-7ee0e2638db4" />
+<img width="718" height="401" alt="Sales Data Analysis Dashboard 3" src="https://github.com/user-attachments/assets/e1939bb2-c106-4923-8629-083bd5188546" />
+<img width="701" height="395" alt="Sales Data Analysis Dashboard 4" src="https://github.com/user-attachments/assets/3b006d1b-34a7-4e8a-ba03-d2cdd99987c3" />
+<img width="717" height="403" alt="Sales Data Analysis Dashboard 5" src="https://github.com/user-attachments/assets/c3ec90d5-5cfd-4d8a-a05c-6322f5e4cda6" />
 
 ---
 
