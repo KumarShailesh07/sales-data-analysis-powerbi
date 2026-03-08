@@ -127,7 +127,7 @@ sales-data-analysis-powerbi/
 
 ## Author
 
-Feel free to connect with me on [LinkedIn](#) or raise an issue if you have any questions or suggestions!
+Feel free to connect with me on www.linkedin.com/in/shailesh-kumar7 or raise an issue if you have any questions or suggestions!
 
 ---
 
